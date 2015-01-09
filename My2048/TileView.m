@@ -61,7 +61,7 @@
 {
      if([keyPath isEqualToString:@"value"])
      {
-         Tile * tile = object;
+//         Tile * tile = object;
 //         self.numberLabel.text = [NSString stringWithFormat:@"%ld", (long)tile.value];
      }
 }
